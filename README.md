@@ -1,2 +1,2 @@
 # DSR
-DSR reproducing and some improvements
+It is a repository for DSR reproducing and some improvements
